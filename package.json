@@ -1,5 +1,6 @@
 {
   "name": "no-more-compact-folders",
+  "publisher": "JoseMLuzu",
   "displayName": "No More Compact Folders",
   "description": "Auto Folder Expand automatically disables the annoying 'Compact Folders' setting in Visual Studio Code, ensuring that nested folders are always fully expanded in the Explorer. This extension improves folder visibility by removing the frustration of single-subfolder chains collapsing into a single line.",
   "version": "0.0.1",
